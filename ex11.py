@@ -1,0 +1,15 @@
+print("How old are you?", end=' ')
+age = input()
+print("How tall are you?", end=' ')
+height = input()
+print("How much do you weigh?", end= ' ')
+weight = input()
+
+print(f"So, you're {age} old, {height} tall and {weight} heavy.")
+
+print("What is your name?", end= ' ')
+name = input()
+print("What is your quest?")
+quest = input()
+print("What is the air-speed velocity of an unladen swallow?")
+velocity = input()
